@@ -1,0 +1,8 @@
+C:\Users\berka\source\repos\Projecttt\Projecttt\bin\Debug\Projecttt.exe.config
+C:\Users\berka\source\repos\Projecttt\Projecttt\bin\Debug\Projecttt.exe
+C:\Users\berka\source\repos\Projecttt\Projecttt\bin\Debug\Projecttt.pdb
+C:\Users\berka\source\repos\Projecttt\Projecttt\obj\Debug\Projecttt.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\Projecttt\Projecttt\obj\Debug\Projecttt.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\source\repos\Projecttt\Projecttt\obj\Debug\Projecttt.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Projecttt\Projecttt\obj\Debug\Projecttt.exe
+C:\Users\berka\source\repos\Projecttt\Projecttt\obj\Debug\Projecttt.pdb
